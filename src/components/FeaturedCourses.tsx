@@ -74,7 +74,7 @@ const FeaturedCourses = () => {
         >
           View All courses
         </Link>
-      </div>{" "}
+      </div>
     </div>
   );
 };
